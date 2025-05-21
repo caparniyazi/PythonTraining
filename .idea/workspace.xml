@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training hangman.">
-      <change afterPath="$PROJECT_DIR$/encryption/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encryption/cypher.py" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, a simple encryption.">
+      <change afterPath="$PROJECT_DIR$/auction/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auction/silent_auction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,14 +51,16 @@
     "Python.main.executor": "Run",
     "Python.password_generator.executor": "Run",
     "Python.save_the_hangman.executor": "Run",
+    "Python.silent_auction.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/encryption"
+    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/auction"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\auction" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\encryption" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining" />
     </key>
@@ -118,14 +120,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747653212529</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Python training, a simple encryption.">
+      <option name="closed" value="true" />
+      <created>1747730554638</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747730554638</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python training initial commit." />
     <MESSAGE value="Python training readme." />
     <MESSAGE value="Python training hangman." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training hangman." />
+    <MESSAGE value="Python training, a simple encryption." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, a simple encryption." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -134,6 +145,11 @@
           <url>file://$PROJECT_DIR$/encryption/cypher.py</url>
           <line>14</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/auction/silent_auction.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
