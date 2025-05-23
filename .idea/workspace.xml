@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, standard calculator." />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, a simple Blackjack.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,17 +48,19 @@
     "Python.cypher.executor": "Run",
     "Python.main.executor": "Run",
     "Python.password_generator.executor": "Run",
+    "Python.playjack.executor": "Run",
     "Python.save_the_hangman.executor": "Run",
     "Python.silent_auction.executor": "Run",
     "Python.standart_calculator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/calculator"
+    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/playjack"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\playjack" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\calculator" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\auction" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\encryption" />
@@ -142,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747820076174</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Python training, a simple Blackjack.">
+      <option name="closed" value="true" />
+      <created>1747932975757</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747932975757</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,7 +164,8 @@
     <MESSAGE value="Python training, a simple encryption." />
     <MESSAGE value="Python training, silent auction." />
     <MESSAGE value="Python training, standard calculator." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, standard calculator." />
+    <MESSAGE value="Python training, a simple Blackjack." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, a simple Blackjack." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
