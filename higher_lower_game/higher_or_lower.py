@@ -1,3 +1,9 @@
+"""
+The objective is simple: guess which of the two accounts shown has higher followers.
+If you get the answer correct, a new account will appear and simply guess again
+which you think is higher.
+Every game has (almost) infinite questions so try your best to get a high score streak.
+"""
 import random
 
 from art import logo
