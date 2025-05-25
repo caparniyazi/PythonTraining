@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Number Guessing Game.">
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Higher or Lower Game.">
+      <change afterPath="$PROJECT_DIR$/CoffeeMachine/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,30 +43,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.cypher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.guess_the_number.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.playjack.executor&quot;: &quot;Run&quot;,
-    &quot;Python.save_the_hangman.executor&quot;: &quot;Run&quot;,
-    &quot;Python.silent_auction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.standart_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/niyaz/PycharmProjects/PythonTraining/guessing_number&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.cypher.executor": "Run",
+    "Python.guess_the_number.executor": "Debug",
+    "Python.higher_or_lower.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.password_generator.executor": "Run",
+    "Python.playjack.executor": "Run",
+    "Python.save_the_hangman.executor": "Run",
+    "Python.silent_auction.executor": "Run",
+    "Python.standart_calculator.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/higher_lower_game",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\higher_lower_game" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\guessing_number" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\playjack" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\calculator" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\auction" />
-      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\encryption" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -163,7 +166,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747988715593</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Python training, Higher or Lower Game.">
+      <option name="closed" value="true" />
+      <created>1748162766254</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1748162766254</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Python training, Higher or Lower Game.">
+      <option name="closed" value="true" />
+      <created>1748164384199</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1748164384199</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -175,7 +194,8 @@
     <MESSAGE value="Python training, standard calculator." />
     <MESSAGE value="Python training, a simple Blackjack." />
     <MESSAGE value="Python training, Number Guessing Game." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, Number Guessing Game." />
+    <MESSAGE value="Python training, Higher or Lower Game." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, Higher or Lower Game." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -202,5 +222,11 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="resources[&quot;water&quot;]" language="Python" />
+        <watch expression="resources[&quot;water&quot;] &lt; MENU[beverage][&quot;ingredients&quot;][&quot;water&quot;]" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
