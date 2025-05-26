@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Higher or Lower Game.">
-      <change afterPath="$PROJECT_DIR$/CoffeeMachine/main.py" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, a simple Coffee Machine simulation.">
+      <change afterPath="$PROJECT_DIR$/CoffeeMachine/coffee_maker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeeMachine/main_oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeeMachine/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeeMachine/money_machine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +53,7 @@
     "Python.guess_the_number.executor": "Debug",
     "Python.higher_or_lower.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.main_oop.executor": "Debug",
     "Python.password_generator.executor": "Run",
     "Python.playjack.executor": "Run",
     "Python.save_the_hangman.executor": "Run",
@@ -58,17 +62,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/higher_lower_game",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/CoffeeMachine",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\CoffeeMachine" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\higher_lower_game" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\guessing_number" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\playjack" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\calculator" />
-      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\auction" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -182,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748164384199</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Python training, a simple Coffee Machine simulation.">
+      <option name="closed" value="true" />
+      <created>1748191279782</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1748191279782</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -195,7 +207,8 @@
     <MESSAGE value="Python training, a simple Blackjack." />
     <MESSAGE value="Python training, Number Guessing Game." />
     <MESSAGE value="Python training, Higher or Lower Game." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, Higher or Lower Game." />
+    <MESSAGE value="Python training, a simple Coffee Machine simulation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, a simple Coffee Machine simulation." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -219,6 +232,16 @@
           <url>file://$PROJECT_DIR$/guessing_number/guess_the_number.py</url>
           <line>35</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CoffeeMachine/main_oop.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CoffeeMachine/coffee_maker.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
