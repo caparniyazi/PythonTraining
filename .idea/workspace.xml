@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, a simple Coffee Machine simulation.">
-      <change afterPath="$PROJECT_DIR$/CoffeeMachine/coffee_maker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeeMachine/main_oop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeeMachine/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeeMachine/money_machine.py" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, a simple Coffee Machine simulation using OOP.">
+      <change afterPath="$PROJECT_DIR$/true_false_quiz/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/true_false_quiz/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/true_false_quiz/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/true_false_quiz/quiz_brain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,26 +53,28 @@
     "Python.guess_the_number.executor": "Debug",
     "Python.higher_or_lower.executor": "Run",
     "Python.main.executor": "Run",
-    "Python.main_oop.executor": "Debug",
+    "Python.main_oop.executor": "Run",
     "Python.password_generator.executor": "Run",
     "Python.playjack.executor": "Run",
+    "Python.question_model.executor": "Run",
+    "Python.quiz_brain.executor": "Run",
     "Python.save_the_hangman.executor": "Run",
     "Python.silent_auction.executor": "Run",
     "Python.standart_calculator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/CoffeeMachine",
+    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/true_false_game",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\true_false_game" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\CoffeeMachine" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\higher_lower_game" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\guessing_number" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\playjack" />
-      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\calculator" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -194,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748191279782</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Python training, a simple Coffee Machine simulation using OOP.">
+      <option name="closed" value="true" />
+      <created>1748285156360</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1748285156360</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,7 +218,8 @@
     <MESSAGE value="Python training, Number Guessing Game." />
     <MESSAGE value="Python training, Higher or Lower Game." />
     <MESSAGE value="Python training, a simple Coffee Machine simulation." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, a simple Coffee Machine simulation." />
+    <MESSAGE value="Python training, a simple Coffee Machine simulation using OOP." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, a simple Coffee Machine simulation using OOP." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
