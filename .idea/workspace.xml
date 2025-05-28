@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, a simple Coffee Machine simulation using OOP.">
-      <change afterPath="$PROJECT_DIR$/true_false_quiz/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/true_false_quiz/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/true_false_quiz/question_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/true_false_quiz/quiz_brain.py" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, a simple quiz app.">
+      <change afterPath="$PROJECT_DIR$/Turtle Graphics/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -204,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748285156360</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Python training, a simple quiz app.">
+      <option name="closed" value="true" />
+      <created>1748336310044</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1748336310044</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -219,7 +224,8 @@
     <MESSAGE value="Python training, Higher or Lower Game." />
     <MESSAGE value="Python training, a simple Coffee Machine simulation." />
     <MESSAGE value="Python training, a simple Coffee Machine simulation using OOP." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, a simple Coffee Machine simulation using OOP." />
+    <MESSAGE value="Python training, a simple quiz app." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, a simple quiz app." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -256,11 +262,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="resources[&quot;water&quot;]" language="Python" />
-        <watch expression="resources[&quot;water&quot;] &lt; MENU[beverage][&quot;ingredients&quot;][&quot;water&quot;]" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
