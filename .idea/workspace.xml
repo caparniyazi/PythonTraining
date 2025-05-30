@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, drawing geometric shapes with Turtle toolkit.">
-      <change afterPath="$PROJECT_DIR$/Turtle Graphics/random_walk.py" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, implementing random walk with Turtle Graphics.">
+      <change afterPath="$PROJECT_DIR$/Turtle Graphics/spirograph.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Turtle Graphics/drawing_geometric_shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Graphics/drawing_geometric_shapes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,7 @@
     "Python.random_walk.executor": "Run",
     "Python.save_the_hangman.executor": "Run",
     "Python.silent_auction.executor": "Run",
+    "Python.spirograph.executor": "Run",
     "Python.standart_calculator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -220,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748418429581</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Python training, implementing random walk with Turtle Graphics.">
+      <option name="closed" value="true" />
+      <created>1748421072614</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1748421072614</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -237,7 +245,8 @@
     <MESSAGE value="Python training, a simple Coffee Machine simulation using OOP." />
     <MESSAGE value="Python training, a simple quiz app." />
     <MESSAGE value="Python training, drawing geometric shapes with Turtle toolkit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, drawing geometric shapes with Turtle toolkit." />
+    <MESSAGE value="Python training, implementing random walk with Turtle Graphics." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, implementing random walk with Turtle Graphics." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
