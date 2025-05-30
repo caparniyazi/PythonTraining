@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, implementing random walk with Turtle Graphics.">
-      <change afterPath="$PROJECT_DIR$/Turtle Graphics/spirograph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, drawing spirography with Turtle Graphics." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -228,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748421072614</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Python training, drawing spirography with Turtle Graphics.">
+      <option name="closed" value="true" />
+      <created>1748622761106</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1748622761106</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -246,7 +251,8 @@
     <MESSAGE value="Python training, a simple quiz app." />
     <MESSAGE value="Python training, drawing geometric shapes with Turtle toolkit." />
     <MESSAGE value="Python training, implementing random walk with Turtle Graphics." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, implementing random walk with Turtle Graphics." />
+    <MESSAGE value="Python training, drawing spirography with Turtle Graphics." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, drawing spirography with Turtle Graphics." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

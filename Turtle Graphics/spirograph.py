@@ -16,15 +16,15 @@ def random_color():
     return rgb
 
 
-def draw_shape():
-    while True:
+def draw_shape(size_of_gap):
+    for _ in range(int(360 / size_of_gap)):
         tim.color(random_color())
         tim.speed(SPEED)
         tim.circle(100)
-        tim.setheading(tim.heading() + 10)
-        tim.circle(100)
+        tim.setheading(tim.heading() + size_of_gap)
 
 
-draw_shape()
+draw_shape(5)
+
 screen = Screen()
 screen.exitonclick()
