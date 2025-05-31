@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, drawing spirography with Turtle Graphics.">
-      <change afterPath="$PROJECT_DIR$/Turtle Graphics/hirst_painting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle Graphics/image.jpg" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Hirst painting with Turtle Graphics.">
+      <change afterPath="$PROJECT_DIR$/Turtle Graphics/etch_a_sketch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,9 +48,11 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.cypher.executor": "Run",
     "Python.drawing_geometric_shapes.executor": "Run",
+    "Python.etch_a_sketch.executor": "Run",
     "Python.guess_the_number.executor": "Debug",
     "Python.higher_or_lower.executor": "Run",
     "Python.hirst_painting.executor": "Run",
+    "Python.listeners.executor": "Run",
     "Python.main.executor": "Run",
     "Python.main_oop.executor": "Run",
     "Python.password_generator.executor": "Run",
@@ -254,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748623622654</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Python training, Hirst painting with Turtle Graphics.">
+      <option name="closed" value="true" />
+      <created>1748676253355</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1748676253355</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -273,7 +282,8 @@
     <MESSAGE value="Python training, drawing geometric shapes with Turtle toolkit." />
     <MESSAGE value="Python training, implementing random walk with Turtle Graphics." />
     <MESSAGE value="Python training, drawing spirography with Turtle Graphics." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, drawing spirography with Turtle Graphics." />
+    <MESSAGE value="Python training, Hirst painting with Turtle Graphics." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, Hirst painting with Turtle Graphics." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
