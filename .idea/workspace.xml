@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Hirst painting with Turtle Graphics.">
-      <change afterPath="$PROJECT_DIR$/Turtle Graphics/etch_a_sketch.py" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, etch-a-sketch.">
+      <change afterPath="$PROJECT_DIR$/Turtle Graphics/turtle_race.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,7 @@
     "Python.silent_auction.executor": "Run",
     "Python.spirograph.executor": "Run",
     "Python.standart_calculator.executor": "Run",
+    "Python.turtle_race.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -263,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748676253355</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Python training, etch-a-sketch.">
+      <option name="closed" value="true" />
+      <created>1748681337872</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1748681337872</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -283,7 +292,8 @@
     <MESSAGE value="Python training, implementing random walk with Turtle Graphics." />
     <MESSAGE value="Python training, drawing spirography with Turtle Graphics." />
     <MESSAGE value="Python training, Hirst painting with Turtle Graphics." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, Hirst painting with Turtle Graphics." />
+    <MESSAGE value="Python training, etch-a-sketch." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, etch-a-sketch." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -317,6 +327,11 @@
           <url>file://$PROJECT_DIR$/CoffeeMachine/coffee_maker.py</url>
           <line>17</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Turtle Graphics/turtle_race.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
