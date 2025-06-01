@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, etch-a-sketch.">
-      <change afterPath="$PROJECT_DIR$/Turtle Graphics/turtle_race.py" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, a simple turtle race app.">
+      <change afterPath="$PROJECT_DIR$/Turtle Graphics/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle Graphics/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle Graphics/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle Graphics/snake_game_main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +52,7 @@
     "Python.cypher.executor": "Run",
     "Python.drawing_geometric_shapes.executor": "Run",
     "Python.etch_a_sketch.executor": "Run",
+    "Python.food.executor": "Run",
     "Python.guess_the_number.executor": "Debug",
     "Python.higher_or_lower.executor": "Run",
     "Python.hirst_painting.executor": "Run",
@@ -62,9 +66,12 @@
     "Python.random_walk.executor": "Run",
     "Python.save_the_hangman.executor": "Run",
     "Python.silent_auction.executor": "Run",
+    "Python.snake.executor": "Run",
+    "Python.snake_game.executor": "Run",
+    "Python.snake_game_main.executor": "Run",
     "Python.spirograph.executor": "Run",
     "Python.standart_calculator.executor": "Run",
-    "Python.turtle_race.executor": "Debug",
+    "Python.turtle_race.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -272,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748681337872</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Python training, a simple turtle race app.">
+      <option name="closed" value="true" />
+      <created>1748715974443</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1748715974443</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -293,7 +308,8 @@
     <MESSAGE value="Python training, drawing spirography with Turtle Graphics." />
     <MESSAGE value="Python training, Hirst painting with Turtle Graphics." />
     <MESSAGE value="Python training, etch-a-sketch." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, etch-a-sketch." />
+    <MESSAGE value="Python training, a simple turtle race app." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, a simple turtle race app." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -332,6 +348,16 @@
           <url>file://$PROJECT_DIR$/Turtle Graphics/turtle_race.py</url>
           <line>28</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Turtle Graphics/snake.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Turtle Graphics/snake_game_main.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
