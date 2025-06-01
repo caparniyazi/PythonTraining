@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, a simple turtle race app.">
-      <change afterPath="$PROJECT_DIR$/Turtle Graphics/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle Graphics/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle Graphics/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle Graphics/snake_game_main.py" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Snake Game implementation.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle Graphics/drawing_geometric_shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Graphics/shapes/drawing_geometric_shapes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle Graphics/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Graphics/snake/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle Graphics/hirst_painting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Graphics/hirst/hirst_painting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle Graphics/image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Graphics/hirst/image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle Graphics/random_walk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Graphics/walk/random_walk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle Graphics/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Graphics/snake/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle Graphics/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Graphics/snake/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle Graphics/snake_game_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Graphics/snake/snake_game_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle Graphics/turtle_race.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Graphics/race/turtle_race.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +91,13 @@
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\CoffeeMachine" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\higher_lower_game" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\guessing_number" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\walk" />
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\hirst" />
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\shapes" />
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\race" />
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\snake" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -287,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748715974443</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Python training, Snake Game implementation.">
+      <option name="closed" value="true" />
+      <created>1748772532305</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1748772532305</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -309,7 +329,8 @@
     <MESSAGE value="Python training, Hirst painting with Turtle Graphics." />
     <MESSAGE value="Python training, etch-a-sketch." />
     <MESSAGE value="Python training, a simple turtle race app." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, a simple turtle race app." />
+    <MESSAGE value="Python training, Snake Game implementation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, Snake Game implementation." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -345,17 +366,17 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Turtle Graphics/turtle_race.py</url>
+          <url>file://$PROJECT_DIR$/Turtle Graphics/race/turtle_race.py</url>
           <line>28</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Turtle Graphics/snake.py</url>
+          <url>file://$PROJECT_DIR$/Turtle Graphics/snake/snake.py</url>
           <line>32</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Turtle Graphics/snake_game_main.py</url>
+          <url>file://$PROJECT_DIR$/Turtle Graphics/snake/snake_game_main.py</url>
           <line>27</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
