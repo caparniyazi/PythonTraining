@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Pong Game implementation.">
-      <change afterPath="$PROJECT_DIR$/Turtle Graphics/crossing/car_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle Graphics/crossing/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle Graphics/crossing/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle Graphics/crossing/scoreboard.py" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Race Game implementation.">
+      <change afterPath="$PROJECT_DIR$/Turtle Graphics/snake/data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle Graphics/snake/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Graphics/snake/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle Graphics/snake/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Graphics/snake/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle Graphics/snake/snake_game_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Graphics/snake/snake_game_main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,7 @@
     "Python.cypher.executor": "Run",
     "Python.drawing_geometric_shapes.executor": "Run",
     "Python.etch_a_sketch.executor": "Run",
+    "Python.file_io.executor": "Run",
     "Python.food.executor": "Run",
     "Python.guess_the_number.executor": "Debug",
     "Python.higher_or_lower.executor": "Run",
@@ -322,7 +323,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748792498814</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Python training, Race Game implementation.">
+      <option name="closed" value="true" />
+      <created>1748851137118</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1748851137118</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -347,7 +356,8 @@
     <MESSAGE value="Python training, Snake Game implementation." />
     <MESSAGE value="Python training, Turtle graphics apps moved to folders." />
     <MESSAGE value="Python training, Pong Game implementation." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, Pong Game implementation." />
+    <MESSAGE value="Python training, Race Game implementation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, Race Game implementation." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
