@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Race Game implementation.">
-      <change afterPath="$PROJECT_DIR$/Turtle Graphics/snake/data.txt" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Snake Game high-score with file I/O implementation.">
+      <change afterPath="$PROJECT_DIR$/Mail Merge/ReadyToSend/invited_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge/ReadyToSend/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge/ReadyToSend/starting_letter.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Turtle Graphics/snake/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Graphics/snake/scoreboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Turtle Graphics/snake/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Graphics/snake/snake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Turtle Graphics/snake/snake_game_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Graphics/snake/snake_game_main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,17 +79,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/Turtle Graphics",
+    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/Mail Merge/ReadyToSend",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Mail Merge\ReadyToSend" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\true_false_game" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\CoffeeMachine" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\higher_lower_game" />
-      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\guessing_number" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\spirograph" />
@@ -331,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748851137118</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Python training, Snake Game high-score with file I/O implementation.">
+      <option name="closed" value="true" />
+      <created>1748858230412</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1748858230412</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -357,7 +364,8 @@
     <MESSAGE value="Python training, Turtle graphics apps moved to folders." />
     <MESSAGE value="Python training, Pong Game implementation." />
     <MESSAGE value="Python training, Race Game implementation." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, Race Game implementation." />
+    <MESSAGE value="Python training, Snake Game high-score with file I/O implementation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, Snake Game high-score with file I/O implementation." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

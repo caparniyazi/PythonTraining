@@ -1,0 +1,7 @@
+Dear [name],
+
+You are invited to Python Training event this Saturday.
+
+Hope you can make it!
+
+Python Team
