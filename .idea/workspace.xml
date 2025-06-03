@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Mail Merge with Python I/O.">
-      <change afterPath="$PROJECT_DIR$/Data Analysis/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Analysis/weather_data.csv" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, introduction to Pandas.">
+      <change afterPath="$PROJECT_DIR$/Data Analysis/Squirrel/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Analysis/Squirrel/squirrel_data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Analysis/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Analysis/Weather/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Analysis/weather_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data Analysis/Weather/weather_data.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,24 +80,24 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/Data Analysis",
+    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/Data Analysis/Squirrel Data",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\Squirrel Data" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Weather Data" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Mail Merge\ReadyToSend" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics" />
-      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\true_false_game" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\Weather" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Mail Merge" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\spirograph" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\sketch" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\walk" />
-      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\hirst" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -345,7 +347,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748867430830</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Python training, introduction to Pandas.">
+      <option name="closed" value="true" />
+      <created>1748940117241</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1748940117241</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -373,7 +383,8 @@
     <MESSAGE value="Python training, Race Game implementation." />
     <MESSAGE value="Python training, Snake Game high-score with file I/O implementation." />
     <MESSAGE value="Python training, Mail Merge with Python I/O." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, Mail Merge with Python I/O." />
+    <MESSAGE value="Python training, introduction to Pandas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, introduction to Pandas." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
