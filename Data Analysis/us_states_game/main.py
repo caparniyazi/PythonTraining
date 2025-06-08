@@ -24,14 +24,11 @@ while len(guessed_states) < len(all_states):
                                     prompt="What's the state name?").title()
 
     if answer_state == "Exit":
-        missing_states = []
-
-        for state in all_states:
-            if state not in guessed_states:
-                missing_states.append(state)
-            new_data_frame = pandas.DataFrame(missing_states)
-            new_data_frame.to_csv("states_to_learn.csv")
+        missing_states = [state for state in all_states if state not in guessed_states]
+        new_data_frame = pandas.DataFrame(missing_states)
+        new_data_frame.to_csv("states_to_learn.csv")
         break
+
     if answer_state in all_states:
         guessed_states.append(answer_state)
         t = Turtle()
