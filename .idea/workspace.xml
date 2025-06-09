@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, US States Game with Pandas refactored with list comprehension.">
-      <change afterPath="$PROJECT_DIR$/Comprehension/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Comprehension/nato_phonetic_alphabet.csv" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, list comprehension explored.">
+      <change afterPath="$PROJECT_DIR$/Tkinter/layout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/mile_to_km.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/playground.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +59,14 @@
     "Python.guess_the_number.executor": "Debug",
     "Python.higher_or_lower.executor": "Run",
     "Python.hirst_painting.executor": "Run",
+    "Python.layout.executor": "Run",
     "Python.listeners.executor": "Run",
     "Python.main.executor": "Run",
     "Python.main_oop.executor": "Run",
+    "Python.mile_to_km.executor": "Run",
     "Python.paddle.executor": "Run",
     "Python.password_generator.executor": "Run",
+    "Python.playground.executor": "Run",
     "Python.playjack.executor": "Run",
     "Python.question_model.executor": "Run",
     "Python.quiz_brain.executor": "Run",
@@ -369,11 +374,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749398678486</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Python training, list comprehension explored.">
+      <option name="closed" value="true" />
+      <created>1749479754917</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1749479754917</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Python training readme." />
     <MESSAGE value="Python training hangman." />
     <MESSAGE value="Python training, a simple encryption." />
     <MESSAGE value="Python training, silent auction." />
@@ -398,7 +410,8 @@
     <MESSAGE value="Python training, Mail Merge with Python I/O." />
     <MESSAGE value="Python training, introduction to Pandas." />
     <MESSAGE value="Python training, US States Game with Pandas refactored with list comprehension." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, US States Game with Pandas refactored with list comprehension." />
+    <MESSAGE value="Python training, list comprehension explored." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, list comprehension explored." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
