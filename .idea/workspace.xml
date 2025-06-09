@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, introduction to Pandas.">
-      <change afterPath="$PROJECT_DIR$/Data Analysis/us_states_game/50_states.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Analysis/us_states_game/Turkiye.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Analysis/us_states_game/blank_states_img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Analysis/us_states_game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Analysis/us_states_game/tr_cities.csv" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, US States Game with Pandas refactored with list comprehension.">
+      <change afterPath="$PROJECT_DIR$/Comprehension/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comprehension/nato_phonetic_alphabet.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,17 +78,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/Data Analysis/us_states_game",
+    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/Comprehension",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Comprehension" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\us_states_game" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\Squirrel Data" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Weather Data" />
-      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Mail Merge\ReadyToSend" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\us_states_game" />
@@ -364,11 +361,18 @@
       <option name="project" value="LOCAL" />
       <updated>1748942130538</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Python training, US States Game with Pandas refactored with list comprehension.">
+      <option name="closed" value="true" />
+      <created>1749398678486</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1749398678486</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Python training initial commit." />
     <MESSAGE value="Python training readme." />
     <MESSAGE value="Python training hangman." />
     <MESSAGE value="Python training, a simple encryption." />
@@ -393,7 +397,8 @@
     <MESSAGE value="Python training, Snake Game high-score with file I/O implementation." />
     <MESSAGE value="Python training, Mail Merge with Python I/O." />
     <MESSAGE value="Python training, introduction to Pandas." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, introduction to Pandas." />
+    <MESSAGE value="Python training, US States Game with Pandas refactored with list comprehension." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, US States Game with Pandas refactored with list comprehension." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
