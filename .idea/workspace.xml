@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, list comprehension explored.">
-      <change afterPath="$PROJECT_DIR$/Tkinter/layout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter/mile_to_km.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter/playground.py" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Tkinter explored.">
+      <change afterPath="$PROJECT_DIR$/Promodoro/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Promodoro/tomato.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,17 +81,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/Comprehension",
+    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/Promodoro",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Promodoro" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Comprehension" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\us_states_game" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\Squirrel Data" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis" />
-      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Weather Data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\us_states_game" />
@@ -382,11 +380,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749479754917</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Python training, Tkinter explored.">
+      <option name="closed" value="true" />
+      <created>1749496580264</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1749496580265</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Python training hangman." />
     <MESSAGE value="Python training, a simple encryption." />
     <MESSAGE value="Python training, silent auction." />
     <MESSAGE value="Python training, standard calculator." />
@@ -411,7 +416,8 @@
     <MESSAGE value="Python training, introduction to Pandas." />
     <MESSAGE value="Python training, US States Game with Pandas refactored with list comprehension." />
     <MESSAGE value="Python training, list comprehension explored." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, list comprehension explored." />
+    <MESSAGE value="Python training, Tkinter explored." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, Tkinter explored." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
