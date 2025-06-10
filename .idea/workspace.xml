@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Pomodore impl with Tkinter.">
-      <change beforePath="$PROJECT_DIR$/Promodoro/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pomodoro/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Promodoro/tomato.png" beforeDir="false" afterPath="$PROJECT_DIR$/Pomodoro/tomato.png" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Pomodoro impl with Tkinter.">
+      <change afterPath="$PROJECT_DIR$/Password Manager/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password Manager/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,54 +44,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.ball.executor": "Run",
-    "Python.car_manager.executor": "Run",
-    "Python.cypher.executor": "Run",
-    "Python.drawing_geometric_shapes.executor": "Run",
-    "Python.etch_a_sketch.executor": "Run",
-    "Python.file_io.executor": "Run",
-    "Python.food.executor": "Run",
-    "Python.guess_the_number.executor": "Debug",
-    "Python.higher_or_lower.executor": "Run",
-    "Python.hirst_painting.executor": "Run",
-    "Python.layout.executor": "Run",
-    "Python.listeners.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.main_oop.executor": "Run",
-    "Python.mile_to_km.executor": "Run",
-    "Python.paddle.executor": "Run",
-    "Python.password_generator.executor": "Run",
-    "Python.playground.executor": "Run",
-    "Python.playjack.executor": "Run",
-    "Python.question_model.executor": "Run",
-    "Python.quiz_brain.executor": "Run",
-    "Python.random_walk.executor": "Run",
-    "Python.save_the_hangman.executor": "Run",
-    "Python.scoreboard.executor": "Run",
-    "Python.silent_auction.executor": "Run",
-    "Python.snake.executor": "Run",
-    "Python.snake_game.executor": "Run",
-    "Python.snake_game_main.executor": "Run",
-    "Python.spirograph.executor": "Run",
-    "Python.standart_calculator.executor": "Run",
-    "Python.turtle_race.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/Promodoro",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.ball.executor&quot;: &quot;Run&quot;,
+    &quot;Python.car_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cypher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.drawing_geometric_shapes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.etch_a_sketch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_io.executor&quot;: &quot;Run&quot;,
+    &quot;Python.food.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guess_the_number.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.higher_or_lower.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hirst_painting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.layout.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listeners.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_oop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mile_to_km.executor&quot;: &quot;Run&quot;,
+    &quot;Python.paddle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playground.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playjack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz_brain.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_walk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.save_the_hangman.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scoreboard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.silent_auction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake_game_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spirograph.executor&quot;: &quot;Run&quot;,
+    &quot;Python.standart_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_race.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/niyaz/PycharmProjects/PythonTraining/Password Manager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Password Manager" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Promodoro" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Comprehension" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\us_states_game" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\Squirrel Data" />
-      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\us_states_game" />
@@ -99,6 +100,35 @@
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\spirograph" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\sketch" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTraining" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Password Manager" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Password Manager/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -395,11 +425,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749550113447</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Python training, Pomodoro impl with Tkinter.">
+      <option name="closed" value="true" />
+      <created>1749550169049</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1749550169049</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Python training, silent auction." />
     <MESSAGE value="Python training, standard calculator." />
     <MESSAGE value="Python training, a simple Blackjack." />
     <MESSAGE value="Python training, Number Guessing Game." />
@@ -424,7 +461,8 @@
     <MESSAGE value="Python training, list comprehension explored." />
     <MESSAGE value="Python training, Tkinter explored." />
     <MESSAGE value="Python training, Pomodore impl with Tkinter." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, Pomodore impl with Tkinter." />
+    <MESSAGE value="Python training, Pomodoro impl with Tkinter." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, Pomodoro impl with Tkinter." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -478,6 +516,11 @@
           <url>file://$PROJECT_DIR$/Data Analysis/us_states_game/main.py</url>
           <line>34</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Password Manager/main.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
