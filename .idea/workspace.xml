@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Password Manager GUI app with Tkinter.">
-      <change afterPath="$PROJECT_DIR$/Exceptions/main.py" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, phonetic app refactored to use try except.">
+      <change afterPath="$PROJECT_DIR$/Password Manager/datax.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comprehension/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Comprehension/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Password Manager/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password Manager/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,7 @@
     "Python.listeners.executor": "Run",
     "Python.main (1).executor": "Run",
     "Python.main (2).executor": "Run",
-    "Python.main.executor": "Debug",
+    "Python.main.executor": "Run",
     "Python.main_oop.executor": "Run",
     "Python.mile_to_km.executor": "Run",
     "Python.paddle.executor": "Run",
@@ -102,6 +102,35 @@
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\spirograph" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\sketch" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTraining" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Password Manager" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Password Manager/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -414,11 +443,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749575896761</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Python training, phonetic app refactored to use try except.">
+      <option name="closed" value="true" />
+      <created>1749639505099</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1749639505099</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Python training, a simple Blackjack." />
     <MESSAGE value="Python training, Number Guessing Game." />
     <MESSAGE value="Python training, Higher or Lower Game." />
     <MESSAGE value="Python training, a simple Coffee Machine simulation." />
@@ -443,7 +479,8 @@
     <MESSAGE value="Python training, Pomodore impl with Tkinter." />
     <MESSAGE value="Python training, Pomodoro impl with Tkinter." />
     <MESSAGE value="Python training, Password Manager GUI app with Tkinter." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, Password Manager GUI app with Tkinter." />
+    <MESSAGE value="Python training, phonetic app refactored to use try except." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, phonetic app refactored to use try except." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -499,14 +536,14 @@
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Password Manager/main.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Exceptions/main.py</url>
           <line>1</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Password Manager/main.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
