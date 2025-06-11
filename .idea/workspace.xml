@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, phonetic app refactored to use try except.">
-      <change afterPath="$PROJECT_DIR$/Password Manager/datax.json" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Password Manager app improved with JSON data format and search capability.">
+      <change afterPath="$PROJECT_DIR$/Language/data/english_words.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/images/card_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/images/card_front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/images/wrong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Password Manager/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password Manager/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +40,9 @@
     &quot;accountId&quot;: &quot;1e3f16b9-d98c-46e4-b448-519d5b8cf5e5&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -83,24 +90,24 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/Password Manager",
+    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/Flash Card/data",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Flash Card\data" />
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Flash Card" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Password Manager" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Promodoro" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Comprehension" />
-      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\us_states_game" />
-      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\Squirrel Data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Flash Card\images" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\us_states_game" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\Weather" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Mail Merge" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\spirograph" />
-      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\sketch" />
     </key>
   </component>
   <component name="RunManager">
@@ -451,11 +458,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749639505099</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Python training, Password Manager app improved with JSON data format and search capability.">
+      <option name="closed" value="true" />
+      <created>1749652322044</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1749652322044</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Python training, Number Guessing Game." />
     <MESSAGE value="Python training, Higher or Lower Game." />
     <MESSAGE value="Python training, a simple Coffee Machine simulation." />
     <MESSAGE value="Python training, a simple Coffee Machine simulation using OOP." />
@@ -480,7 +494,8 @@
     <MESSAGE value="Python training, Pomodoro impl with Tkinter." />
     <MESSAGE value="Python training, Password Manager GUI app with Tkinter." />
     <MESSAGE value="Python training, phonetic app refactored to use try except." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, phonetic app refactored to use try except." />
+    <MESSAGE value="Python training, Password Manager app improved with JSON data format and search capability." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, Password Manager app improved with JSON data format and search capability." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
