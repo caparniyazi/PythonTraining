@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, Password Manager app improved with JSON data format and search capability.">
-      <change afterPath="$PROJECT_DIR$/Language/data/english_words.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Language/images/card_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Language/images/card_front.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Language/images/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Language/images/wrong.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Language/main.py" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, language app to learn foreign language words.">
+      <change afterPath="$PROJECT_DIR$/Smtp/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Smtp/quotes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,17 +86,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/Flash Card/data",
+    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/Smtp",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Smtp" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Flash Card\data" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Flash Card" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Password Manager" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Promodoro" />
-      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Comprehension" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Flash Card\images" />
@@ -110,7 +106,51 @@
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\spirograph" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main (2)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTraining" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Language" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Language/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTraining" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Smtp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Smtp/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTraining" />
       <option name="ENV_FILES" value="" />
@@ -135,6 +175,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -466,11 +508,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749652322044</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Python training, language app to learn foreign language words.">
+      <option name="closed" value="true" />
+      <created>1749672687151</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1749672687151</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Python training, Higher or Lower Game." />
     <MESSAGE value="Python training, a simple Coffee Machine simulation." />
     <MESSAGE value="Python training, a simple Coffee Machine simulation using OOP." />
     <MESSAGE value="Python training, a simple quiz app." />
@@ -495,7 +544,8 @@
     <MESSAGE value="Python training, Password Manager GUI app with Tkinter." />
     <MESSAGE value="Python training, phonetic app refactored to use try except." />
     <MESSAGE value="Python training, Password Manager app improved with JSON data format and search capability." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, Password Manager app improved with JSON data format and search capability." />
+    <MESSAGE value="Python training, language app to learn foreign language words." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, language app to learn foreign language words." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
