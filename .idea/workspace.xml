@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, using SMTP to send emails.">
+      <change afterPath="$PROJECT_DIR$/Smtp/birthdays.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Smtp/letters/letter_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Smtp/letters/letter_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Smtp/letters/letter_3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Smtp/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Smtp/main.py" afterDir="false" />
     </list>
@@ -56,14 +60,14 @@
     "Python.etch_a_sketch.executor": "Run",
     "Python.file_io.executor": "Run",
     "Python.food.executor": "Run",
-    "Python.guess_the_number.executor": "Debug",
+    "Python.guess_the_number.executor": "Run",
     "Python.higher_or_lower.executor": "Run",
     "Python.hirst_painting.executor": "Run",
     "Python.layout.executor": "Run",
     "Python.listeners.executor": "Run",
     "Python.main (1).executor": "Run",
     "Python.main (2).executor": "Run",
-    "Python.main.executor": "Run",
+    "Python.main.executor": "Debug",
     "Python.main_oop.executor": "Run",
     "Python.mile_to_km.executor": "Run",
     "Python.paddle.executor": "Run",
@@ -85,17 +89,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/Smtp",
+    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/Smtp/letters",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Smtp\letters" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Smtp" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Flash Card\data" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Flash Card" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Password Manager" />
-      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Promodoro" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Flash Card\images" />
@@ -104,81 +108,6 @@
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Mail Merge" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\spirograph" />
     </key>
-  </component>
-  <component name="RunManager" selected="Python.main (2)">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonTraining" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Language" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Language/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonTraining" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Smtp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Smtp/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonTraining" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Password Manager" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Password Manager/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -523,7 +452,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749897006479</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Python training, using SMTP to send emails.">
+      <option name="closed" value="true" />
+      <created>1749901399361</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1749901399361</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -616,6 +553,11 @@
           <url>file://$PROJECT_DIR$/Password Manager/main.py</url>
           <line>53</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Smtp/main.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
