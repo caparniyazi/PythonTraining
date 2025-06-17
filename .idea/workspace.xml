@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, API integration sample.">
-      <change afterPath="$PROJECT_DIR$/API Integration/sunrise_sunset/sunrise_sunset.py" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, ISS &amp; Sunrise-Sunset and SMTP API integration app.">
+      <change afterPath="$PROJECT_DIR$/API Integration/Trivia/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API Integration/Trivia/images/false.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API Integration/Trivia/images/true.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API Integration/Trivia/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API Integration/Trivia/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API Integration/Trivia/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API Integration/Trivia/ui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +58,7 @@
     "Python.ball.executor": "Run",
     "Python.car_manager.executor": "Run",
     "Python.cypher.executor": "Run",
+    "Python.data.executor": "Run",
     "Python.drawing_geometric_shapes.executor": "Run",
     "Python.etch_a_sketch.executor": "Run",
     "Python.file_io.executor": "Run",
@@ -83,20 +90,21 @@
     "Python.standart_calculator.executor": "Run",
     "Python.sunrise_sunset.executor": "Run",
     "Python.turtle_race.executor": "Run",
+    "Python.ui.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/API Integration",
+    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/API Integration/Trivia",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\API Integration\Trivia" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\API Integration" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Smtp\letters" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Smtp" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Flash Card\data" />
-      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Flash Card" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\API Integration\sunrise_sunset" />
@@ -465,11 +473,18 @@
       <option name="project" value="LOCAL" />
       <updated>1750066762522</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Python training, ISS &amp; Sunrise-Sunset and SMTP API integration app.">
+      <option name="closed" value="true" />
+      <created>1750154896859</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1750154896859</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Python training, a simple quiz app." />
     <MESSAGE value="Python training, drawing geometric shapes with Turtle toolkit." />
     <MESSAGE value="Python training, implementing random walk with Turtle Graphics." />
     <MESSAGE value="Python training, drawing spirography with Turtle Graphics." />
@@ -494,7 +509,8 @@
     <MESSAGE value="Python training, language app to learn foreign language words." />
     <MESSAGE value="Python training, using SMTP to send emails." />
     <MESSAGE value="Python training, API integration sample." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, API integration sample." />
+    <MESSAGE value="Python training, ISS &amp; Sunrise-Sunset and SMTP API integration app." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, ISS &amp; Sunrise-Sunset and SMTP API integration app." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
