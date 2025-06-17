@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, using SMTP to send emails.">
-      <change afterPath="$PROJECT_DIR$/API Integration/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API Integration/kanye.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API Integration/main.py" afterDir="false" />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, API integration sample.">
+      <change afterPath="$PROJECT_DIR$/API Integration/sunrise_sunset/sunrise_sunset.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +81,7 @@
     "Python.snake_game_main.executor": "Run",
     "Python.spirograph.executor": "Run",
     "Python.standart_calculator.executor": "Run",
+    "Python.sunrise_sunset.executor": "Run",
     "Python.turtle_race.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -100,11 +99,11 @@
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Flash Card" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\API Integration\sunrise_sunset" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Flash Card\images" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\us_states_game" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Data Analysis\Weather" />
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Mail Merge" />
-      <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\Turtle Graphics\spirograph" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -458,11 +457,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749901399361</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Python training, API integration sample.">
+      <option name="closed" value="true" />
+      <created>1750066762522</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1750066762522</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Python training, a simple Coffee Machine simulation using OOP." />
     <MESSAGE value="Python training, a simple quiz app." />
     <MESSAGE value="Python training, drawing geometric shapes with Turtle toolkit." />
     <MESSAGE value="Python training, implementing random walk with Turtle Graphics." />
@@ -487,7 +493,8 @@
     <MESSAGE value="Python training, Password Manager app improved with JSON data format and search capability." />
     <MESSAGE value="Python training, language app to learn foreign language words." />
     <MESSAGE value="Python training, using SMTP to send emails." />
-    <option name="LAST_COMMIT_MESSAGE" value="Python training, using SMTP to send emails." />
+    <MESSAGE value="Python training, API integration sample." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python training, API integration sample." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
