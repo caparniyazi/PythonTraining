@@ -28,7 +28,7 @@ for rec in data["list"]:
         will_rain = True
         break
 
-if True:
+if will_rain:
     client = Client(account_sid, auth_token)
     message = client.messages.create(
         body="It's going to rain today. Remember to bring an ☂︎⛆",
