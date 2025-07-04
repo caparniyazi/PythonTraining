@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, a daily rain alert app with Twilio messaging and env variables." />
+    <list default="true" id="3e458036-cdb5-43e1-94b7-7c04e275d5bb" name="Changes" comment="Python training, a daily rain alert app with Twilio messaging and env variables.">
+      <change afterPath="$PROJECT_DIR$/API Integration/Stock Trading/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,52 +47,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.ball.executor&quot;: &quot;Run&quot;,
-    &quot;Python.car_manager.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cypher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data.executor&quot;: &quot;Run&quot;,
-    &quot;Python.drawing_geometric_shapes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.etch_a_sketch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_io.executor&quot;: &quot;Run&quot;,
-    &quot;Python.food.executor&quot;: &quot;Run&quot;,
-    &quot;Python.guess_the_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.higher_or_lower.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hirst_painting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.layout.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listeners.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_oop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mile_to_km.executor&quot;: &quot;Run&quot;,
-    &quot;Python.paddle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.playground.executor&quot;: &quot;Run&quot;,
-    &quot;Python.playjack.executor&quot;: &quot;Run&quot;,
-    &quot;Python.question_model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.quiz_brain.executor&quot;: &quot;Run&quot;,
-    &quot;Python.random_walk.executor&quot;: &quot;Run&quot;,
-    &quot;Python.save_the_hangman.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scoreboard.executor&quot;: &quot;Run&quot;,
-    &quot;Python.silent_auction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
-    &quot;Python.snake_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.snake_game_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.spirograph.executor&quot;: &quot;Run&quot;,
-    &quot;Python.standart_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sunrise_sunset.executor&quot;: &quot;Run&quot;,
-    &quot;Python.turtle_race.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ui.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/niyaz/PycharmProjects/PythonTraining/API Integration/Trivia&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ball.executor": "Run",
+    "Python.car_manager.executor": "Run",
+    "Python.cypher.executor": "Run",
+    "Python.data.executor": "Run",
+    "Python.drawing_geometric_shapes.executor": "Run",
+    "Python.etch_a_sketch.executor": "Run",
+    "Python.file_io.executor": "Run",
+    "Python.food.executor": "Run",
+    "Python.guess_the_number.executor": "Run",
+    "Python.higher_or_lower.executor": "Run",
+    "Python.hirst_painting.executor": "Run",
+    "Python.layout.executor": "Run",
+    "Python.listeners.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main (2).executor": "Run",
+    "Python.main.executor": "Debug",
+    "Python.main_oop.executor": "Run",
+    "Python.mile_to_km.executor": "Run",
+    "Python.paddle.executor": "Run",
+    "Python.password_generator.executor": "Run",
+    "Python.playground.executor": "Run",
+    "Python.playjack.executor": "Run",
+    "Python.question_model.executor": "Run",
+    "Python.quiz_brain.executor": "Run",
+    "Python.random_walk.executor": "Run",
+    "Python.save_the_hangman.executor": "Run",
+    "Python.scoreboard.executor": "Run",
+    "Python.silent_auction.executor": "Run",
+    "Python.snake.executor": "Run",
+    "Python.snake_game.executor": "Run",
+    "Python.snake_game_main.executor": "Run",
+    "Python.spirograph.executor": "Run",
+    "Python.standart_calculator.executor": "Run",
+    "Python.sunrise_sunset.executor": "Run",
+    "Python.turtle_race.executor": "Run",
+    "Python.ui.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/niyaz/PycharmProjects/PythonTraining/API Integration/Trivia",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\niyaz\PycharmProjects\PythonTraining\API Integration\Trivia" />
@@ -120,14 +123,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747467783340</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Python training readme.">
-      <option name="closed" value="true" />
-      <created>1747479180824</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1747479180824</updated>
     </task>
     <task id="LOCAL-00004" summary="Python training readme.">
       <option name="closed" value="true" />
@@ -513,7 +508,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751281071449</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Python training, a daily rain alert app with Twilio messaging and env variables.">
+      <option name="closed" value="true" />
+      <created>1751281258159</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1751281258159</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -642,6 +645,11 @@
           <url>file://$PROJECT_DIR$/API Integration/Rain Alert/main.py</url>
           <line>6</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/API Integration/Stock Trading/main.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
